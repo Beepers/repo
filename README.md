@@ -1,1 +1,2 @@
-For more info contact Batman
+# The-Beeper
+Mute undesired audio using CTC and RNN
